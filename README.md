@@ -1,2 +1,1 @@
 # wellStake
- landing page
